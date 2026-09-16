@@ -1,0 +1,3 @@
+Name: Imamatdin
+Surname: Sultaniyazov
+ID: 000000
